@@ -1,0 +1,14 @@
+{
+  "plan_type": "from_problem_settings",
+  "do_sim": true,
+  "do_sim_arolib": true,
+  "plot_scene": false,
+  "plot_plan_1": false,
+  "plot_plan_2": true,
+  "results_file": "",
+  "path": "<>/test_data/campaigns/campaign_1",
+  "max_fields": 3,
+  "max_harvs": -1,
+  "max_tvs": -1,
+  "problem_settings_file": "<>/test_data/problem_configs/sequential_planning_def.json"
+}

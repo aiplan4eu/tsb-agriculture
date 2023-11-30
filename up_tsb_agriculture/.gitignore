@@ -1,0 +1,7 @@
+venv
+.idea
+__pycache__
+*/__pycache__
+*.pyc
+exposed_arolib
+exposed_arolib_

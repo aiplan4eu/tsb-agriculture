@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "loc_silo_0",
+        "silo_name": null,
+        "location_type": "silo",
+        "mass_capacity": 1228236.768
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.289660017206444,
+              52.359413525951325
+            ],
+            [
+              8.289877521732024,
+              52.35907180610332
+            ],
+            [
+              8.290150270814905,
+              52.359142553551635
+            ],
+            [
+              8.289926898019132,
+              52.359477003269824
+            ],
+            [
+              8.289660017206444,
+              52.359413525951325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "loc_silo_access_point_0_0",
+        "silo_name": "loc_silo_0",
+        "location_type": "unloading-area",
+        "mass_capacity": 40000.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.290155208123792,
+              52.359137576242205
+            ],
+            [
+              8.289880470589821,
+              52.359068328243346
+            ],
+            [
+              8.2899100205112,
+              52.35902404262251
+            ],
+            [
+              8.290183985891957,
+              52.35909872467914
+            ],
+            [
+              8.290155208123792,
+              52.359137576242205
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

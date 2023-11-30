@@ -1,0 +1,33 @@
+{
+  "current_time": "2022-09-18 06:00:00",
+  "end_time": "2022-09-18 13:06:00",
+  "fields_to_exclude": [
+    "S\u00fcdanbindung",
+    "Roter Pfahl",
+    "Hinter Buss"
+  ],
+  "selected_hv": [
+    "OSGK972",
+    "OSGK974",
+    "OSGK975"
+  ],
+  "selected_tv": [
+    "OSGK306",
+    "OSGK712",
+    "OSGK723",
+    "OSGK724",
+    "OSGK726",
+    "OSGK819",
+    "OSGK823",
+    "OSGK825",
+    "OSGK826",
+    "OSGK921",
+    "OSGK926",
+    "OSGK931",
+    "OSGK972",
+    "OSGK974",
+    "OSGK975",
+    "OSWK906"
+  ],
+  "start_time": "2022-09-18 06:00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "field_states": [
+    {
+      "field_name": "loc_field_1",
+      "state": {
+        "avg_mass_per_area_t_ha": 42.7233498212819,
+        "harvested_percentage": 0.0
+      }
+    },
+    {
+      "field_name": "loc_field_2",
+      "state": {
+        "avg_mass_per_area_t_ha": 26.42155007472878,
+        "harvested_percentage": 0.0
+      }
+    },
+    {
+      "field_name": "loc_field_3",
+      "state": {
+        "avg_mass_per_area_t_ha": 42.42224415837727,
+        "harvested_percentage": 15.286594445922265
+      }
+    },
+    {
+      "field_name": "loc_field_4",
+      "state": {
+        "avg_mass_per_area_t_ha": 19.843055998294822,
+        "harvested_percentage": 0.0
+      }
+    },
+    {
+      "field_name": "loc_field_5",
+      "state": {
+        "avg_mass_per_area_t_ha": 16.93944235629254,
+        "harvested_percentage": 0.0
+      }
+    },
+    {
+      "field_name": "loc_field_6",
+      "state": {
+        "avg_mass_per_area_t_ha": 21.732790522185965,
+        "harvested_percentage": 0.0
+      }
+    },
+    {
+      "field_name": "loc_field_7",
+      "state": {
+        "avg_mass_per_area_t_ha": 24.88575085558189,
+        "harvested_percentage": 0.0
+      }
+    },
+    {
+      "field_name": "loc_field_8",
+      "state": {
+        "avg_mass_per_area_t_ha": 30.674100383655023,
+        "harvested_percentage": 0.0
+      }
+    }
+  ]
+}

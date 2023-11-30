@@ -1,0 +1,27 @@
+{
+  "plan_type": "from_problem_settings",
+  "do_sim": true,
+  "do_sim_arolib": true,
+  "plot_scene": false,
+  "plot_plan_1": false,
+  "plot_plan_2": true,
+  "path": "<>/test_data/campaigns/campaign_1",
+  "max_fields": 5,
+  "max_harvs": -1,
+  "max_tvs": -1,
+  "problem_settings": {
+    "planning_type": "TEMPORAL",
+    "effects_settings": {
+      "do_overload": "WITH_NORMAL_EFFECTS_AND_SIM_EFFECTS",
+      "drive_harv_to_field": "WITH_NORMAL_EFFECTS_AND_SIM_EFFECTS",
+      "reserve_overload": "WITH_NORMAL_EFFECTS_AND_SIM_EFFECTS",
+      "drive_to_silo": "WITH_NORMAL_EFFECTS_AND_SIM_EFFECTS",
+      "general": "WITH_NORMAL_EFFECTS_AND_SIM_EFFECTS"
+    },
+    "action_decomposition_settings": {
+      "do_overload": false,
+      "reserve_overload": false,
+      "general": false
+    }
+  }
+}

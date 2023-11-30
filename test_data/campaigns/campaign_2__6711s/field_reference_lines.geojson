@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location_name": "loc_field_1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.223393448281257,
+            52.41043918366526
+          ],
+          [
+            8.221101867520389,
+            52.411530432598795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_name": "loc_field_2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.111107729844434,
+            52.435735294289
+          ],
+          [
+            8.112715381082921,
+            52.436565847291604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_name": "loc_field_3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.073948279505743,
+            52.41145429610296
+          ],
+          [
+            8.072338143171976,
+            52.41242669862919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_name": "loc_field_4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.108575825637644,
+            52.34119325090086
+          ],
+          [
+            8.108248310300127,
+            52.34259084232559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location_name": "loc_field_5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.104326678513786,
+            52.34305790047142
+          ],
+          [
+            8.105913258334368,
+            52.34299970723902
+          ]
+        ]
+      }
+    }
+  ]
+}

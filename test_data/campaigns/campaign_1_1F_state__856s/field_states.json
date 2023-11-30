@@ -1,0 +1,11 @@
+{
+  "field_states": [
+    {
+      "field_name": "Field_1",
+      "state": {
+        "avg_mass_per_area_t_ha": 33.72,
+        "harvested_percentage": 51.81580294847335
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_1"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.295397624783448,
+                        52.35863594828106
+                    ],
+                    [
+                        8.297773266932268,
+                        52.359413743754914
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_0"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.295378548033113,
+                        52.35970935167014
+                    ],
+                    [
+                        8.298518911848419,
+                        52.36078616804922
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_4"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.299000333373868,
+                        52.36281408361103
+                    ],
+                    [
+                        8.296704182493897,
+                        52.36202873615853
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_2"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.296595932861464,
+                        52.364632083913186
+                    ],
+                    [
+                        8.296725811567228,
+                        52.36312558044912
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_3"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.29807048680513,
+                        52.365423495160385
+                    ],
+                    [
+                        8.298208348551384,
+                        52.36373241107347
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ]
+}

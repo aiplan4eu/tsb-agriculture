@@ -1,0 +1,71 @@
+{
+  "machines": [
+    {
+      "id": 0,
+      "type": "harvester",
+      "manufacturer": "NoName",
+      "model": "NoName",
+      "width": 3,
+      "working_width": 7.5,
+      "length": 8.59,
+      "weight": 12500,
+      "turning_radius": -9999,
+      "bunker_mass": 0,
+      "bunker_volume": 0,
+      "def_working_speed": 1.9,
+      "max_speed_empty": 5,
+      "max_speed_full": 5
+    },
+    {
+      "id": 1,
+      "type": "transport vehicle",
+      "manufacturer": "NoName",
+      "model": "NoName",
+      "width": 2.6,
+      "length": -9999,
+      "weight": 20000,
+      "turning_radius": -9999,
+      "bunker_mass": 16600,
+      "bunker_volume": 16600,
+      "def_working_speed": 2.5,
+      "max_speed_empty": 5.2,
+      "max_speed_full": 4.8,
+      "unloading_speed_mass": -9999,
+      "unloading_speed_volume": -9999
+    },
+    {
+      "id": 2,
+      "type": "transport vehicle",
+      "manufacturer": "NoName",
+      "model": "NoName",
+      "width": 2.6,
+      "length": -9999,
+      "weight": 20000,
+      "turning_radius": -9999,
+      "bunker_mass": 18000,
+      "bunker_volume": 18000,
+      "def_working_speed": 2.5,
+      "max_speed_empty": 5.2,
+      "max_speed_full": 4.8,
+      "unloading_speed_mass": -9999,
+      "unloading_speed_volume": -9999
+    },
+    {
+      "id": 3,
+      "type": "transport vehicle",
+      "manufacturer": "NoName",
+      "model": "NoName",
+      "width": 2.6,
+      "length": -9999,
+      "weight": 20000,
+      "turning_radius": -9999,
+      "bunker_mass": 17250,
+      "bunker_volume": 17250,
+      "def_working_speed": 2.5,
+      "max_speed_empty": 5.2,
+      "max_speed_full": 4.8,
+      "unloading_speed_mass": -9999,
+      "unloading_speed_volume": -9999
+    }
+  ]
+}

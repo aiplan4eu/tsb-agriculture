@@ -1,0 +1,57 @@
+{
+  "machine_states": [
+    {
+      "machine_id": 0,
+      "state": {
+        "timestamp": 1082,
+        "timestamp_free": 1082,
+        "position_lon": 8.296279481817795,
+        "position_lat": 52.3638025744101,
+        "bunker_mass": 0.0,
+        "bunker_volume": 0.0,
+        "location_type": "field",
+        "location_id": "3",
+        "overloading_machine_id": 1
+      }
+    },
+    {
+      "machine_id": 1,
+      "state": {
+        "timestamp": 1082,
+        "timestamp_free": 1082,
+        "position_lon": 8.296279481817795,
+        "position_lat": 52.3638025744101,
+        "bunker_mass": 6831.250308609581,
+        "bunker_volume": 0.0,
+        "location_type": "field",
+        "location_id": "3",
+        "overloading_machine_id": 0
+      }
+    },
+    {
+      "machine_id": 2,
+      "state": {
+        "timestamp": 1082,
+        "timestamp_free": 1082,
+        "position_lon": 8.296279481817795,
+        "position_lat": 52.3638025744101,
+        "bunker_mass": 0.0,
+        "bunker_volume": 0.0,
+        "location_type": "field",
+        "location_id": "3"
+      }
+    },
+    {
+      "machine_id": 3,
+      "state": {
+        "timestamp": 1082,
+        "timestamp_free": 1082,
+        "position_lon": 8.290029825645444,
+        "position_lat": 52.35908144880398,
+        "bunker_mass": 11121.024157342345,
+        "bunker_volume": 0.0,
+        "location_name": null
+      }
+    }
+  ]
+}

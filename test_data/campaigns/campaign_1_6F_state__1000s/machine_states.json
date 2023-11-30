@@ -1,0 +1,64 @@
+{
+  "machine_states": [
+    {
+      "machine_id": 0,
+      "state": {
+        "timestamp": 1000,
+        "timestamp_free": 1000,
+        "position_lat": 52.36613943633968,
+        "position_lon": 8.295692407813586,
+        "bunker_mass": 0.0,
+        "bunker_volume": 0.0,
+        "location_type": "field",
+        "location_id": 5,
+        "parent_location_id": null,
+        "overloading_machine_id": 2
+      }
+    },
+    {
+      "machine_id": 1,
+      "state": {
+        "timestamp": 1000,
+        "timestamp_free": 1000,
+        "position_lat": 52.35979740703113,
+        "position_lon": 8.292492357250874,
+        "bunker_mass": 0.0,
+        "bunker_volume": 0.0,
+        "location_type": null,
+        "location_id": null,
+        "parent_location_id": null,
+        "overloading_machine_id": null
+      }
+    },
+    {
+      "machine_id": 2,
+      "state": {
+        "timestamp": 1000,
+        "timestamp_free": 1000,
+        "position_lat": 52.36613943633968,
+        "position_lon": 8.295692407813586,
+        "bunker_mass": 9868.78770404164,
+        "bunker_volume": 0.0,
+        "location_type": "field",
+        "location_id": 5,
+        "parent_location_id": null,
+        "overloading_machine_id": 0
+      }
+    },
+    {
+      "machine_id": 3,
+      "state": {
+        "timestamp": 1000,
+        "timestamp_free": 1000,
+        "position_lat": 52.36613943633968,
+        "position_lon": 8.295692407813586,
+        "bunker_mass": 0.0,
+        "bunker_volume": 0.0,
+        "location_type": "field",
+        "location_id": 5,
+        "parent_location_id": null,
+        "overloading_machine_id": null
+      }
+    }
+  ]
+}

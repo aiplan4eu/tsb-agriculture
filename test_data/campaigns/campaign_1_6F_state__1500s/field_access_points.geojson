@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_1"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.295224788145873,
+                    52.358874713418665
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_1"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.29517351020678,
+                    52.35849607121048
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_0"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.29496721540869,
+                    52.35913158942458
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_0"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.29492273580837,
+                    52.36011962977232
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_4"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.294929154213463,
+                    52.360268221164034
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_4"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.294921246751784,
+                    52.36127023610694
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_2"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.295384760930176,
+                    52.36203545613762
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_2"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.297245614289693,
+                    52.36304548364956
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_3"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.297857797216011,
+                    52.363254908037845
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_5"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.294056155456303,
+                    52.366735945678954
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_5"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.292802149741277,
+                    52.365477988427415
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_5"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.29293243604917,
+                    52.364642645245276
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_name": "Field_5"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.296238451116551,
+                    52.36736242486118
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+  "planner": "tamer",
+  "use_custom_heuristic": true,
+  "plan_type": "from_problem_settings",
+  "shuffle_fields": false,
+  "reverse_fields": false,
+  "pre_assign_fields_count": 0,
+  "pre_assign_field_turns_count": 0,
+  "pre_assign_harvs_to_tvs_count": 0,
+  "pre_assign_tvs_per_harvester": 0,
+  "pre_assign_assign_tv_turns_count": 0,
+  "pre_assign_cyclic_tv_turns": true,
+  "default_yield": 50.0,
+  "default_headland_width": 27.0,
+  "do_sim": true,
+  "do_sim_arolib": true,
+  "plot_scene": false,
+  "plot_plan_1": false,
+  "plot_plan_2": true,
+  "results_file": "",
+  "path": "<>/test_data/campaigns/campaign_1",
+  "max_fields": 5,
+  "max_harvs": -1,
+  "max_tvs": -1,
+  "problem_settings": {
+    "id_undef": -12345,
+    "planning_type": "TEMPORAL",
+    "with_harv_conditions_and_effects_at_tv_arrival": false,
+    "with_drive_to_field_exit": false,
+    "silo_planning_type": "WITHOUT_SILO_ACCESS_AVAILABILITY",
+    "numeric_fluent_bounds_option": "WITHOUT_BOUNDS",
+    "infield_transit_duration_to_field_access": 30,
+    "effects_settings": {
+      "do_overload": "WITH_ONLY_SIM_EFFECTS",
+      "drive_harv_to_field": "WITH_ONLY_SIM_EFFECTS",
+      "reserve_overload": "WITH_ONLY_SIM_EFFECTS",
+      "drive_to_silo": "WITH_ONLY_SIM_EFFECTS",
+      "general": "WITH_ONLY_SIM_EFFECTS"
+    },
+    "action_decomposition_settings": {
+      "do_overload": false,
+      "reserve_overload": false,
+      "general": false
+    },
+    "control_windows": {
+      "enable_driving_opening_time": 1.0,
+      "enable_driving_tvs_to_field_opening_time": 1.0,
+      "enable_arriving_tvs_in_field_opening_time": -1.0,
+      "enable_overload_opening_time": -0.05
+    },
+    "cost_windows": {
+      "waiting_overload_opening_time": 0.1,
+      "waiting_drive_opening_time": 0.1,
+      "waiting_drive_from_silo_opening_time": -1,
+      "waiting_harvest_opening_time": 0.1,
+      "use_old_implementation_waiting_overload": false,
+      "use_old_implementation_waiting_drive": true
+    },
+    "temporal_optimization_setting": "NONE",
+    "sequential_optimization_settings": {
+      "k_harv_waiting_time": 0.0,
+      "k_tv_waiting_time": 0.0
+    }
+  }
+}
